@@ -1,6 +1,6 @@
 import math 
-Q = 1
-W = 2
+Q = W
+W = Q
 
 def firstlaw(Q, W):
  U = Q - W 
